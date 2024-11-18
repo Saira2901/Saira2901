@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Saira2901
-- 👀 I’m interested in python, drones 
+- 👀 I’m interested in python, drones, AI, etc
 - 🌱 I’m currently learning my bachelors in Technology 
 - 💞️ I’m looking to collaborate on developmental projects
 - 😄 Pronouns: she/her
